@@ -1,10 +1,13 @@
 pragma solidity ^0.5.0;
 
 contract Lottery {
-    address payable from;
-    address payable to;
+    string public name = "Dapp Lottery";
 
     constructor() public {
-        from = msg.sender;
+        
+    }
+
+    function roll() public {
+        
     }
 }

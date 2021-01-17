@@ -9,3 +9,6 @@ Demo Ethereum dapp implementing a simple lottery.
 
 ## Getting Started
 Start your local Ganache dev Ethereum network.
+
+## TODO
+Add tests.
